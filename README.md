@@ -28,3 +28,4 @@ Discord account generator writen in python request to generate hundreds of accou
 # WORKING PROOF
 ![image](https://user-images.githubusercontent.com/101292107/157760111-14708565-2233-4fea-9106-683646df6d63.png)
 
+i also created a server so you will see it dont get clipped after joining / creating
